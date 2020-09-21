@@ -1,0 +1,7 @@
+1. Criar uma  base de dados (qualquer programa)
+1.1 A base (nome) deve ser a sua matrícula.
+1.2 Pelo menos 6 campos
+2. Inserir dados na base criada (pelo menos 7 registros)
+3. Elaborar 20 querys (seu critério)
+4. Criar uma tela em HTML/CSS- BOOTSTRAP
+5. Criar uma rotina de inclusão de dados
